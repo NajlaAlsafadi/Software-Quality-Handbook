@@ -20,7 +20,7 @@ CI/CD stands at the core of modern software development methodologies, emphasizi
 
 - **Automated Testing**: Validate code changes through automated tests.
 - **Deployment Strategies**: Utilize strategies like blue/green deployments to minimize risks.
-![blue/green deployment](image-1.png)
+![blue/green deployment](image-dep.png)
 - **Security First Approach**: Prioritize security throughout the CI/CD pipeline.
 - **Scalability and Maintenance**: Opt for tools that support scalability and easy maintenance.
 - **Effective Use of Docker**: Optimize Docker usage in CI/CD pipelines.
