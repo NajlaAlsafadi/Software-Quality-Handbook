@@ -2,18 +2,20 @@
 
 ## Resources:
 - [What is Code Review?](https://smartbear.com/learn/code-review/what-is-code-review/)
-- [6 Reasons Why Code Reviews Are Especially Important for Remote Teams](https://distantjob.com/blog/6-reasons-why-code-reviews-are-especially-important-for-remote-teams/#:~:text=C.)
-- [Types of Code Reviews](https://www.scrum-tips.com/agile/types-of-code-reviews/#:~:text=Type%201%2C%20the%20instant%20code,needs%20explanation%20by%20the%20coder.)
+- [6 Reasons Why Code Reviews are Especially Important for Remote Teams](https://distantjob.com/blog/6-reasons-why-code-reviews-are-especially-important-for-remote-teams/#:~:text=C)
+- [Types of Code Reviews](https://www.scrum-tips.com/agile/types-of-code-reviews/#:~:text=Type%201%2C%20the%20instant%20code,needs%20explanation%20by%20the%20coder)
 - [Best Practices for Reviewing Code](https://www.codegrip.tech/productivity/best-practices-for-reviewing-code/)
-- [Pros and Cons of Code Review](https://www.linkedin.com/pulse/code-review-pros-cons-umesh-kadam-1)
+- [Code Review: Pros and Cons](https://www.linkedin.com/pulse/code-review-pros-cons-umesh-kadam-1)
+- [Michaela Greiler's Blog on Code Reviews](https://www.michaelagreiler.com/category/code-reviews/)
 
-![alt text](image1.png)
+
+![alt text](CR_image1.png)
 
 **What is Code Review:**
 
 Peer Code Review, also known as Code Review, involves programmers collaborating to review each other's code for errors. This practice has been proven to streamline and expedite software development more than any other technique. It is an essential component of the software development lifecycle and typically occurs before merging code changes into the primary codebase. Code reviews can be performed manually or with the assistance of automated tools. Although numerous tools and software are available, comprehending the fundamental concept is critical. Software is created by humans and is susceptible to human errors. While software developers frequently rely on manuals and automated testing to verify code, it is still imperative to utilize human abilities to identify and rectify mistakes.
 
-![alt text](image2.png)
+![alt text](CR_image2.png)
 
 ## Types of Code Reviews
 
@@ -25,7 +27,7 @@ Peer Code Review, also known as Code Review, involves programmers collaborating 
 
 - **TEAM REVIEWS**: Involve a group of developers or peers who collaborate to provide feedback on each other's code changes before integration. They allow for in-depth analysis of the code from multiple perspectives, increasing the chances of identifying defects. Additionally, they provide a valuable opportunity for knowledge sharing and collaboration.
 
-![alt text](image3.png)
+![alt text](CR_image3.png)
 
 # Purpose of Code Reviews
 
@@ -45,7 +47,7 @@ Conducting code reviews early in the software development process is essential f
 
 Overall, code reviews play a crucial role in ensuring the success of software projects by promoting collaboration, improving code quality, and reducing risks.
 
-![alt text](image4.png)
+![alt text](CR_image4.png)
 
 # Best Practices for Code Reviewers
 
