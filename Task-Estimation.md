@@ -63,3 +63,36 @@ The steps involved are
 This estimation is the most effective when there is a vast amount of historical data available but it’s not as accurate for novel or unique tasks. It is quick and easy and suitable for early-stage project planning.
 
 ![alt text](image-7.png)
+
+## Benefits and Downfalls 
+Different task estimation techniques have their own benefits and downfalls, and their effectiveness can change depending on the specific scenario or context in which they're used.
+
+### Planning Poker
+#### Benefits:
+- Promotes team collaboration and discussion, leading to well-informed estimates.
+- Takes into account different perspectives, which can lead to more accurate estimates.
+- The iterative approach helps in reaching a consensus, reducing the chances of a lot of variations in the actual effort.
+
+#### Downfalls:
+- Can be time-consuming, especially for large projects with many tasks.
+- Might create biased results if team members are influenced by each other's estimates.
+
+### Expert Judgment
+#### Benefits:
+- Leverages the experience and expertise of seasoned professionals.
+- Can be more accurate for complex or specialized tasks.
+ 
+#### Downfalls:
+- Relies heavily on the availability and accuracy of the experts on the team.
+- May not be as effective for novel tasks that the experts have no experience with.
+ 
+### Analogous Estimation
+#### Benefits:
+- Quick and easy to implement, especially for early-stage project planning.
+- Uses historical data, which can be a reliable source of estimates for tasks that are similar.
+ 
+#### Downfalls:
+- May not be accurate for unique or novel tasks.
+- Heavily depends on the quality and relevance of the historical data available.
+ 
+Overall the choice of the task estimation technique should be chosen based off the requirments of the task or project, the availability of historical data or experts, and the composition and dynamics of the team.
