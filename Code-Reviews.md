@@ -95,6 +95,19 @@ Overall, code reviews play a crucial role in ensuring the success of software pr
 - **Risk Mitigation:** Through thorough code reviews, teams can mitigate the risks attached to complex or critical code changes by having many people examine code from different perspectives.
 
 
+## Downfalls:
+
+
+![alt text](Downfalls.png)
+
+- **Time management:** As code reviews can be time-consuming, particularly for large or complex changes, this can potentially slow the development process especially if reviews are not conducted efficiently.
+  
+- **Knowledge Gaps:** Knowledge gaps within the team can occur if the code reviews are not conducted transparently or if only a subset of team members can participate. This could impact the overall agility and flexibility of the team as it can make it challenging for team members to understand and maintain code written by others.
+  
+- **Resource Allocation:** Managing code reviews requires dedicated time and resources from team members. This can divert attention away from other critical tasks or project priorities.
+  
+- **Lack of Follow-up:** There is no guarantee that the issues identified during code reviews will be addressed in a timely manner. If action items or feedback are not followed up on effectively, it can undermine the value of the review process and perpetuate recurring issues in the codebase.
+
 
 
 
