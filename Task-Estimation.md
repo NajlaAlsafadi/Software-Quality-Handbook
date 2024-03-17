@@ -1,5 +1,14 @@
 # Task Estimation
 
+### Resources:
+- [Should Testers Play Planning Poker?](https://developsense.com/blog/2011/10/should-testers-play-planning-poker)
+- [Evidence-based Estimation](https://www.scrum.org/resources/blog/evidence-based-estimation)
+- [How to Estimate Projects in Agile](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/)
+- [Why You Should Not Estimate in Hours or Days](https://www.scrumexpert.com/knowledge/why-you-should-not-estimate-in-hours-or-days/)
+- [Agile Planning](https://bigpicture.one/blog/agile-planning/)
+- [Story Points](https://asana.com/resources/story-points)
+- [Are We Really Bad at Estimating?](https://www.mountaingoatsoftware.com/blog/are-we-really-bad-at-estimating)
+
 ![alt text](image-1.png)
 
 Task estimation is an important component of software development and project management, resource allocation and project delivery. This involves predicting the most realistic amount of effort, estimation is measured usually in hours, days or story points when required to complete a task or project. Task estimation helps project managers and teams align expectations, set deadlines and manage stakeholder’s interests. 
@@ -54,14 +63,3 @@ The steps involved are
 This estimation is the most effective when there is a vast amount of historical data available but it’s not as accurate for novel or unique tasks. It is quick and easy and suitable for early-stage project planning.
 
 ![alt text](image-7.png)
-
-## Additional Resources:
-
-- [Should Testers Play Planning Poker?](https://developsense.com/blog/2011/10/should-testers-play-planning-poker)
-- [Evidence-based Estimation](https://www.scrum.org/resources/blog/evidence-based-estimation)
-- [How to Estimate Projects in Agile](https://www.netsolutions.com/insights/how-to-estimate-projects-in-agile/)
-- [Why You Should Not Estimate in Hours or Days](https://www.scrumexpert.com/knowledge/why-you-should-not-estimate-in-hours-or-days/)
-- [Agile Planning](https://bigpicture.one/blog/agile-planning/)
-- [Story Points](https://asana.com/resources/story-points)
-- [Are We Really Bad at Estimating?](https://www.mountaingoatsoftware.com/blog/are-we-really-bad-at-estimating)
-
