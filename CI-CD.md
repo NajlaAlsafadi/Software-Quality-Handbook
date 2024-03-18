@@ -6,6 +6,11 @@
 3. [Blog on CI/CD Pipelines](https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/) 
 4. [Blog on CI/CD Monitoring Practices](https://www.datadoghq.com/blog/best-practices-for-ci-cd-monitoring/) 
 5. [Blog: Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) 
+6. [Pros and Cons of CI/CD Pipelines - BairesDev](https://www.bairesdev.com/blog/pros-and-cons-of-ci-cd-pipelines/)
+7. [The Pros and Cons of CI/CD Pipelines - TechTarget](https://www.techtarget.com/searchsoftwarequality/tip/The-pros-and-cons-of-CI-CD-pipelines)
+8. [Pros and Cons of CI/CD Pipelines - Medium](https://manrai-tarun.medium.com/pros-and-cons-of-ci-cd-pipelines-1d9c1ec1d242)
+
+
 
 ## Introduction to CI/CD and Its Impact on Software Quality
 
@@ -62,3 +67,28 @@ CI/CD stands at the core of modern software development methodologies, emphasizi
 ![Metrics](image.png)
  
 By leveraging these tools according to the outlined best practices, one can significantly improve the quality and reliability of the software delivery process.
+
+# CI/CD
+
+![image1](CICD1.png)
+
+## Benefits and Downfalls:
+
+![image2](CICD2.png)
+
+### Benefits of CI/CD:
+- More responsive development: CI/CD enables faster app development to meet organizational needs. Collaboration with the business side is key in prioritizing high-impact areas over technical preferences.
+- Better code quality: Smaller changes mean less code and better code quality checks before full testing. This helps developers identify and solve problems earlier in the DevOps process. However, code quality is still crucial, and CI/CD does not permit cutting corners for the sake of speed.
+- Shorter testing cycles: Less code to check means faster deployment. A well-run CI/CD approach involves fewer interactions between what is changed and what remains unchanged.
+- Easier monitoring of change in the operational environment: Efficient monitoring tools help identify the root cause of issues during a rollout.
+- Easier rollback if required: If a problem occurs that requires the platform to return to a previously known position, smaller changes mean less effort to carry out the rollback. Again, ensure the right tools are in place, especially an effective orchestration tool.
+
+![image3](CICD3.png)
+
+### Downfalls of CI/CD:
+- Not everyone appreciates continuous change: With CI/CD, many changes are invisible to the user, but some impact the UX. It's important to communicate UX changes to users as soon as possible and provide on-screen guidance. Involve the help desk in the CI/CD process and let them see and comment on changes before they go live to avoid complaints from users.
+- Changes create a domino effect in a microservices environment: In microservices with CI/CD, a small change can affect multiple interactions. Configuration management tracks dependencies between microservices, and orchestration ensures changes don't impact other streams and can be rolled back if necessary.
+- Continuous change requires continuous monitoring and reporting: Real-time monitoring and reporting are crucial to quickly address any issues that may arise due to CI/CD changes and prevent cascading problems and user complaints.
+- Resource management must be responsive: Deep testing is crucial for developers and testers to anticipate the resource and performance impacts of CI/CD changes. Automation and orchestration tools can help prepare and provision workloads agnostically, monitor IT platforms, and automatically take corrective actions.
+
+![image4](CICD4.png)
