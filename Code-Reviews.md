@@ -1,6 +1,6 @@
 # Code Reviews
 
-## Resources:
+### Resources:
 - [What is Code Review?](https://smartbear.com/learn/code-review/what-is-code-review/)
 - [6 Reasons Why Code Reviews are Especially Important for Remote Teams](https://distantjob.com/blog/6-reasons-why-code-reviews-are-especially-important-for-remote-teams/#:~:text=C)
 - [Types of Code Reviews](https://www.scrum-tips.com/agile/types-of-code-reviews/#:~:text=Type%201%2C%20the%20instant%20code,needs%20explanation%20by%20the%20coder)
@@ -11,7 +11,7 @@
 
 ![alt text](CR_image1.png)
 
-**What is Code Review:**
+## What is Code Review
 
 Peer Code Review, also known as Code Review, involves programmers collaborating to review each other's code for errors. This practice has been proven to streamline and expedite software development more than any other technique. It is an essential component of the software development lifecycle and typically occurs before merging code changes into the primary codebase. Code reviews can be performed manually or with the assistance of automated tools. Although numerous tools and software are available, comprehending the fundamental concept is critical. Software is created by humans and is susceptible to human errors. While software developers frequently rely on manuals and automated testing to verify code, it is still imperative to utilize human abilities to identify and rectify mistakes.
 
@@ -51,33 +51,33 @@ Overall, code reviews play a crucial role in ensuring the success of software pr
 
 # Best Practices for Code Reviewers
 
-## Setting Goals and Standards
+### **Setting Goals and Standards**
 - Set clear goals and metrics before implementing a code review process.
 - Establish coding standards for the company to ensure consistency and meet expectations.
 
-## Communicate Goals and Expectations
+### **Communicate Goals and Expectations**
 - Clear communication of goals and expectations helps developers complete tasks more easily and reduces ambiguity.
 
-## Define a Code Review Process
+### **Define a Code Review Process**
 - Define a structured code review process to stay organized and reduce technical debt.
 
-## Use a Code Review Checklist
+### **Use a Code Review Checklist**
 - Utilize a well-defined checklist during code reviews to ensure nothing is missed.
 
-## Authors Should Annotate Source Code Before Review
+### **Authors Should Annotate Source Code Before Review**
 - Annotations aid understanding for both developers and reviewers, enhancing comprehension of the codebase.
 
-## Review for No More Than 60 Minutes at a Time
+### **Review for No More Than 60 Minutes at a Time**
 - Avoid reviewing code for extended periods to maintain efficiency and ensure defects are not overlooked.
 
-## Establish a Process for Fixing Defects Found
+### **Establish a Process for Fixing Defects Found**
 - Define a clear process for addressing defects identified during code reviews to minimize technical debt.
 
-## Foster a Positive Code Review Culture
+### **Foster a Positive Code Review Culture**
 - Encourage a culture where code reviews are seen as learning opportunities rather than performance evaluations.
 - Use mistakes as teaching moments to help developers grow and improve.
 
-## Automate to Save Time
+### **Automate to Save Time**
 - Utilize automated code review tools like Codegrip to scan codebases quickly, identify defects, and provide solutions, reducing review times significantly.
 
 # Benefits and Downfalls of Code Reviews in Scrum
@@ -107,7 +107,3 @@ Overall, code reviews play a crucial role in ensuring the success of software pr
 - **Resource Allocation:** Managing code reviews requires dedicated time and resources from team members. This can divert attention away from other critical tasks or project priorities.
   
 - **Lack of Follow-up:** There is no guarantee that the issues identified during code reviews will be addressed in a timely manner. If action items or feedback are not followed up on effectively, it can undermine the value of the review process and perpetuate recurring issues in the codebase.
-
-
-
-
