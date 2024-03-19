@@ -1,18 +1,18 @@
 # Continuous Integration (CI) & Continuous Delivery (CD)
 
 ### Resources: 
-1. [Tools for CI/CD](https://blog.jetbrains.com/teamcity/2023/08/how-to-choose-cicd-tool/ )
-2. [Quality and CI/CD](https://qameta.io/blog/automated-testing-for-ci-cd/)
-3. [Blog on CI/CD Pipelines](https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/) 
-4. [Blog on CI/CD Monitoring Practices](https://www.datadoghq.com/blog/best-practices-for-ci-cd-monitoring/) 
-5. [Blog: Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) 
-6. [Pros and Cons of CI/CD Pipelines - BairesDev](https://www.bairesdev.com/blog/pros-and-cons-of-ci-cd-pipelines/)
-7. [The Pros and Cons of CI/CD Pipelines - TechTarget](https://www.techtarget.com/searchsoftwarequality/tip/The-pros-and-cons-of-CI-CD-pipelines)
-8. [Pros and Cons of CI/CD Pipelines - Medium](https://manrai-tarun.medium.com/pros-and-cons-of-ci-cd-pipelines-1d9c1ec1d242)
+-  [Tools for CI/CD](https://blog.jetbrains.com/teamcity/2023/08/how-to-choose-cicd-tool/ )
+- [Quality and CI/CD](https://qameta.io/blog/automated-testing-for-ci-cd/)
+-  [Blog on CI/CD Pipelines](https://komodor.com/blog/ci-cd-pipelines-for-kubernetes-best-practices-and-tools/) 
+- [Blog on CI/CD Monitoring Practices](https://www.datadoghq.com/blog/best-practices-for-ci-cd-monitoring/) 
+- [Blog: Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) 
+-  [Pros and Cons of CI/CD Pipelines - BairesDev](https://www.bairesdev.com/blog/pros-and-cons-of-ci-cd-pipelines/)
+- [The Pros and Cons of CI/CD Pipelines - TechTarget](https://www.techtarget.com/searchsoftwarequality/tip/The-pros-and-cons-of-CI-CD-pipelines)
+- [Pros and Cons of CI/CD Pipelines - Medium](https://manrai-tarun.medium.com/pros-and-cons-of-ci-cd-pipelines-1d9c1ec1d242)
 
 
 
-## Introduction to CI/CD and Its Impact on Software Quality
+## What is CI/CD and Its Impact on Software Quality
 
 CI/CD stands at the core of modern software development methodologies, emphasizing automation, collaboration, and rapid feedback loops to enhance software quality. The approach reduces human error and ensures software is always in a release-ready state, facilitating faster and more reliable releases.
 
